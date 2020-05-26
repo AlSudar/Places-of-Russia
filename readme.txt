@@ -6,3 +6,5 @@
 Responsive page collapsed using CSS3 and HTML5.
 CSS files were named according to BEM
 The work uses a connected font
+
+GitHub Pages - https://alexandrsudarev.github.io/Places-of-Russia/
