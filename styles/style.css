@@ -456,7 +456,7 @@ html {
 }
 
 .comments__container_comment-image {
-    width: 97px;
+    width: 97px !important;
     height: 97px;
     margin-left: 1%;
     border-radius: 100%;
@@ -494,7 +494,7 @@ html {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('cover.jpg');
+    background-image: url('../images/cover.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
