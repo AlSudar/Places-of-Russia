@@ -945,35 +945,7 @@ html {
 @media screen and (max-width: 768px) {
     .video__container_item-icon-play {
         top: 24px;
-        left: -80px;
-    }
-}
-
-@media screen and (max-width: 630px) {
-    .video__container_item-icon-play {
-        top: 24px;
-        left: -130px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .video__container_item-icon-play {
-        top: 24px;
-        right: 220px;
-    }
-}
-
-@media screen and (max-width: 375px) {
-    .video__container_item-icon-play {
-        top: 16px;
-        left: -130px;
-    }
-}
-
-@media screen and (max-width: 330px) {
-    .video__container_item-icon-play {
-        top: 16px;
-        left: -106px;
+        left: 24px;
     }
 }
 
