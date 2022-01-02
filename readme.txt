@@ -1,10 +1,5 @@
-Респонсивная страница свёрстанная при помощи CSS3 и HTML5. 
-Файлы CSS были проименованы согласно БЭМ
-В работе используется подключённый шрифт
 
+Адаптивная страница свёрстанная при помощи SCSS и HTML5. 
+Роутинг настроен при помощи ExpressJS
 
-Responsive page collapsed using CSS3 and HTML5.
-CSS files were named according to BEM
-The work uses a connected font
-
-GitHub Pages - https://alexandrsudarev.github.io/Places-of-Russia/
+GitHub Pages - https://alsudar.github.io/Places-of-Russia/
