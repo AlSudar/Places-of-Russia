@@ -8,4 +8,4 @@ The command to run the developer - npm run dev
 Build command - npm run build
 Production command - npm run serve
 
-GitHub Pages - https://alsudar.github.io/Places-of-Russia/
+View - https://places-of-russia.vercel.app/
